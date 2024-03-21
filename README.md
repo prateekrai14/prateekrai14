@@ -28,9 +28,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as well as a freelancer from India.
+I am a Data Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> as well as a freelancer from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Data enineer as a professional carrer and contributing to frontend and backend for building web applications as a freelancer.
 
 - :seedling: Exploring Technical Content Writing.
 
